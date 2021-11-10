@@ -1,0 +1,9 @@
+.toko {
+  text-align: center;
+}
+.container {
+  background-color: azure;
+  position: relative;
+  left: 480px;
+  padding: 40px;
+}
